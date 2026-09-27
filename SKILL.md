@@ -1,3 +1,8 @@
+---
+name: video-to-script
+description: YouTube 视频转口播稿：用户提供视频链接后，完成字幕提取、要点提炼、口播化改写的完整流程。触发词：视频转口播稿、口播稿生成、YouTube 字幕提取、视频文案提取、口播化改写。
+---
+
 # Video to Script Skill
 
 用户提供 YouTube 视频链接，完成从字幕获取、内容提炼到口播稿生成的完整流程。
